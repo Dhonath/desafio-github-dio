@@ -1,0 +1,26 @@
+
+IDEIA DE PROJETO PRINCIPAL
+
+Estou trabalhando em um protótipo de um action-rpg.
+
+INSPIRAÇÕES
+
+Dark Souls
+Sekiro
+Blood Borne
+
+MECÂNICAS PRINCIPAIS
+
+O jogador terá apenas uma classe no caso o cavaleiro, porém diferente de Sekiro,
+o jogo terá variações de espadas e de tecnicas amaldiçoadas e de mágias que podem aumentar
+a velocidade do player ou até mesmo o ataque, porém irá ter condições, como por exemplo, uma
+técnica que der ao player um boost de força e velocidade porém sua vida é reduzida em 60%,
+o jogo também terá skills para serem upadas e o player criar sua própria build, como uma build
+de veneno, ou build de dano continuo.
+
+POSSIVEIS DIFICULDADES
+
+Por eu já ter 4 anos que trabalho na unity e sou programador, as mecânicas de gameplay, não serão
+o caso, mas sim as artes e os design dos inimigos e boss, por isso tenho como objetivo, conseguir
+um emprego para poder pagar um artista 3d para fazer os design dos inimgos e chefes e se possivel já
+deixa ele com o esqueleto pronto.
